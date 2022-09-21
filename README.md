@@ -22,7 +22,10 @@ Danny Yu (Artist)
 
 It is a priority to get to know eachother before you create games together, as it is almost impossible to collaborate at this level and scale without doing so first. Immediately I found it challenging as a producer to work this out, being my first time doing something like this, but my group really took initiative to getting to know eachother. We quickly formed a plan, formed boundaries, and formed a group atmosphere where we were able to productively and enjoyably work on our game.
 
-At NHSGA (National High School Game Avademy), there was about 8 hours of available time to work at the facility, and the rest of the day was free for us to go and spend time on or around campus as we pleased. This is where my role as producer really took form, as I had to plan out a reasonable amount of work that needed to be completed within certain timeframes and fairly divide this work between each group member. We couldn't just have fun at all times as we had a strict deadline for submission of our re-creation.
+At NHSGA (National High School Game Avademy), there was about 8 hours of available time to work at the facility, and the rest of the day was free for us to go and spend time on or around campus as we pleased. This is where my role as producer really took form, as I had to plan out a reasonable amount of work that needed to be completed within certain timeframes and fairly divide this work between each group member. We couldn't just have fun at all times as we had a strict deadline for submission of our re-creation. To accomplish a well thought out plan, we worked together on a task sheet and daily meetings were held.
+
+Here's an example of said task sheet with the *Audio Tasks - 
+<img width="1311" alt="Audio Tasks" src="https://user-images.githubusercontent.com/112907563/191397149-61e14a92-ccf4-4cd7-92dd-4db44222e0a9.png">
 
 Getting to work right away, we created a Design Document to scope out what we wanted to accomplish and create in our re-creation of Q*bert, aptly named according to our desired theming of it, T-bert.
 ![logo](https://user-images.githubusercontent.com/112907563/191389964-e9ae68c4-e335-49dd-a0a8-705b9bc81f5f.png)
@@ -72,12 +75,11 @@ Quickly though, this feeling wore off, as I was able to, with the support of my 
 
 I created melodies, beats, loops, and incoporated reverb, pitch adjustments, and other necessary sound additions. It all came together to form a playful, energetic, and vibrant soundtrack for a just as vibrant and funky feeling game that is T-bert.
 
+Here's how the *Menu Music* looks with the overlapping and put together audio tracks in Reaper
+<img width="1440" alt="Menu Music in Reaper" src="https://user-images.githubusercontent.com/112907563/191397210-2a840bc1-4d47-4aa2-953a-39e699304ef1.png">
+
 ---
 
 # The Sound
 
-**Attached in this repo is the complete selection of T-bert sound effects and music tracks for your hearing pleasure.**
-
----
-
-# Takeaways
+Attached in this repo is the complete selection of T-bert sound effects and music tracks for your hearing pleasure.
