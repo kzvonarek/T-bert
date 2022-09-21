@@ -7,9 +7,13 @@ My group and I took on this challenge with the game Q*bert.
 This group consisted of the following members...
 
 Kristijan Zvonarek (Producer and Audio Designer)
+
 Yichen Dai (Programmer)
+
 Vivian Zhao (Programmer)
+
 Alex Chow (Artist)
+
 Danny Yu (Artist)
 
 All of us brought to the table our prior knowledge, and the new knowledge we were taught during the three week learning period of the NHSGA at Carnegie Mellon to take one week to plan out, create, and present a recreation of Q*bert, which we call T-bert.
