@@ -17,7 +17,7 @@ Danny Yu (Artist)
 
 ---
 
-Overview
+# Overview
 
 It is a priority to get to know eachother before you create games together, as it is almost impossible to collaborate at this level and scale without doing so first. Immediately I found it challenging as a producer to work this out, being my first time doing something like this, but my group really took initiative to getting to know eachother. We quickly formed a plan, formed boundaries, and formed a group atmosphere where we were able to productively and enjoyably work on our game.
 
@@ -37,5 +37,5 @@ https://user-images.githubusercontent.com/112907563/191390565-af7eb48a-82de-4532
 
 ---
 
-Audio and the Magic of Reaper
+# Audio and the Magic of Reaper
 
