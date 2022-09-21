@@ -24,7 +24,7 @@ It is a priority to get to know eachother before you create games together, as i
 
 At NHSGA (National High School Game Avademy), there was about 8 hours of available time to work at the facility, and the rest of the day was free for us to go and spend time on or around campus as we pleased. This is where my role as producer really took form, as I had to plan out a reasonable amount of work that needed to be completed within certain timeframes and fairly divide this work between each group member. We couldn't just have fun at all times as we had a strict deadline for submission of our re-creation. To accomplish a well thought out plan, we worked together on a task sheet and daily meetings were held.
 
-Here's an example of said task sheet with the *Audio Tasks - 
+Here's an example of said task sheet with the *Audio Tasks*:
 <img width="1311" alt="Audio Tasks" src="https://user-images.githubusercontent.com/112907563/191397149-61e14a92-ccf4-4cd7-92dd-4db44222e0a9.png">
 
 Getting to work right away, we created a Design Document to scope out what we wanted to accomplish and create in our re-creation of Q*bert, aptly named according to our desired theming of it, T-bert.
@@ -75,7 +75,7 @@ Quickly though, this feeling wore off, as I was able to, with the support of my 
 
 I created melodies, beats, loops, and incoporated reverb, pitch adjustments, and other necessary sound additions. It all came together to form a playful, energetic, and vibrant soundtrack for a just as vibrant and funky feeling game that is T-bert.
 
-Here's how the *Menu Music* looks with the overlapping and put together audio tracks in Reaper
+Here's how the *Menu Music* looks with the overlapping and put together audio tracks in Reaper:
 <img width="1440" alt="Menu Music in Reaper" src="https://user-images.githubusercontent.com/112907563/191397210-2a840bc1-4d47-4aa2-953a-39e699304ef1.png">
 
 ---
