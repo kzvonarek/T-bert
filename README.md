@@ -16,12 +16,23 @@ Alex Chow (Artist)
 Danny Yu (Artist)
 
 
-Phase One - The Starting Stages of Development
+Overview
 
 It is a priority to get to know eachother before you create games together, as it is almost impossible to collaborate at this level and scale without doing so first. Immediately I found it challenging as a producer to work this out, being my first time doing something like this, but my group really took initiative to getting to know eachother. We quickly formed a plan, formed boundaries, and formed a group atmosphere where we were able to productively and enjoyably work on our game.
 
 At NHSGA, there was about 8 hours of available time to work at the ETC, and the rest of the day was free for us to go and spend time on or around campus as we pleased. This is where my role as producer really took form, as I had to plan out a reasonable amount of work that needed to be completed within certain timeframes and fairly divide this work between each group member. We couldn't just have fun at all times as we had a strict deadline for submission of our re-creation.
 
 Getting to work right away, we created a Design Document to scope out what we wanted to accomplish and create in our re-creation of Q*bert, aptly named according to our desired theming of it, T-bert.
+![logo](https://user-images.githubusercontent.com/112907563/191389964-e9ae68c4-e335-49dd-a0a8-705b9bc81f5f.png)
 
+Design Document - 
 [Q_bert Game Design Document.pdf](https://github.com/kzvonarek/T-bert/files/9612079/Q_bert.Game.Design.Document.pdf)
+
+To be brief on our design principles, for our re-creation we wanted to focus on the pillars of the original game and keeping them as closely refined as they were in the original, but bringing them up to par with a more refined control scheme using the arrow keys. It is important to maintain the original goal, that being chnging the colors of all the tiles and avoiding the enemies to reach a high score. Our twist, was more focused on the art and audio side of the project. We chose to add a theme, that being Pre-Historic. So, Q_bert turned into a dinosaur, Coily became a caveman, Slick became a dodobird, and Sam became a frog, all retaining their original purposes and actions. Our audio also reflected this, having bongos, claves, gongs, and zibraslaps being incorporated into the soundtrack and sound effects.
+
+While I cannot go into detail too much on the art and programming side of this project, while I was only involved in the planning process of them, I can back up the fact that my group members did some incredible work with it. Heres a gameplay video of the final product if you are interested.
+
+https://user-images.githubusercontent.com/112907563/191390565-af7eb48a-82de-4532-9c05-fb9886ca6bbb.mp4
+
+Audio and the Magic of Reaper
+
