@@ -82,4 +82,4 @@ Here's how the *Menu Music* looks with the overlapping and put together audio tr
 
 # The Sound
 
-Attached in this repo is the complete selection of T-bert sound effects and music tracks for your hearing pleasure.
+Attached in this repo is the complete selection of T-bert sound effects and music tracks for your hearing pleasure, and also a playable version of T-bert.
