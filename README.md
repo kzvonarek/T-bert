@@ -6,7 +6,7 @@ My group and I took on this challenge with the game Q*bert.
 
 This group consisted of the following members...
 
-Kristijan Zvonarek (Producer and Audio Designer)
+Kristijan Zvonarek (Producer and Sound Designer)
 
 Yichen Dai (Programmer)
 
@@ -40,3 +40,22 @@ https://user-images.githubusercontent.com/112907563/191390565-af7eb48a-82de-4532
 
 # Audio and the Magic of Reaper
 
+I will admit, at first I was not very excited to take on the role of Sound Designer. I came into the program with the desire of programming, and I wanted to be able to do that for whatever game I was assigned. While I didn't get my desired role, maybe it was for the better as I not only explored, to me, a relatively unknown avenue of game creation, but I furthered my personal skills and developed a new ability, to create sound.
+
+I have had experience with music during my middle school journey in percussion, so I honed in on that past experience and focused on percussion in my music and sound. To gain inspiration, I would listen to tribal music, trying to figure out how they were able to combine so many natural and artificial sounds into one cohesive work. This type of music would work well for a pre-historic setting, so I took note on what I could use.
+
+**Instruments and Sounds Used**
+
+Bongos
+
+Claves
+
+Zibraslap
+
+Gong
+
+Snare Drum
+
+Bass Drum
+
+Rocks
