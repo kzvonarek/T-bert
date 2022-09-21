@@ -76,5 +76,8 @@ I created melodies, beats, loops, and incoporated reverb, pitch adjustments, and
 
 # The Sound
 
-Here's just a few of the created tracks and sound effects made for T-bert with some corresponding visuals.
+**Attached in this repo is the complete selection of T-bert sound effects and music tracks for your hearing pleasure.**
 
+---
+
+# Takeaways
