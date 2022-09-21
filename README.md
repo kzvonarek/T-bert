@@ -27,7 +27,7 @@ At NHSGA, there was about 8 hours of available time to work at the facility, and
 Getting to work right away, we created a Design Document to scope out what we wanted to accomplish and create in our re-creation of Q*bert, aptly named according to our desired theming of it, T-bert.
 ![logo](https://user-images.githubusercontent.com/112907563/191389964-e9ae68c4-e335-49dd-a0a8-705b9bc81f5f.png)
 
-Design Document - 
+**Design Document -
 [Q_bert Game Design Document.pdf](https://github.com/kzvonarek/T-bert/files/9612079/Q_bert.Game.Design.Document.pdf)
 
 To be brief on our design principles, for our re-creation we wanted to focus on the pillars of the original game and keeping them as closely refined as they were in the original, but bringing them up to par with a more refined control scheme using the arrow keys. It is important to maintain the original goal, that being chnging the colors of all the tiles and avoiding the enemies to reach a high score. Our twist, was more focused on the art and audio side of the project. We chose to add a theme, that being Pre-Historic. So, Q_bert turned into a dinosaur, Coily became a caveman, Slick became a dodobird, and Sam became a frog, all retaining their original purposes and actions. Our audio also reflected this, having bongos, claves, gongs, and zibraslaps being incorporated into the soundtrack and sound effects.
