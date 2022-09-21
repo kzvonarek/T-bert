@@ -22,7 +22,7 @@ Danny Yu (Artist)
 
 It is a priority to get to know eachother before you create games together, as it is almost impossible to collaborate at this level and scale without doing so first. Immediately I found it challenging as a producer to work this out, being my first time doing something like this, but my group really took initiative to getting to know eachother. We quickly formed a plan, formed boundaries, and formed a group atmosphere where we were able to productively and enjoyably work on our game.
 
-At NHSGA, there was about 8 hours of available time to work at the facility, and the rest of the day was free for us to go and spend time on or around campus as we pleased. This is where my role as producer really took form, as I had to plan out a reasonable amount of work that needed to be completed within certain timeframes and fairly divide this work between each group member. We couldn't just have fun at all times as we had a strict deadline for submission of our re-creation.
+At NHSGA (National High School Game Avademy), there was about 8 hours of available time to work at the facility, and the rest of the day was free for us to go and spend time on or around campus as we pleased. This is where my role as producer really took form, as I had to plan out a reasonable amount of work that needed to be completed within certain timeframes and fairly divide this work between each group member. We couldn't just have fun at all times as we had a strict deadline for submission of our re-creation.
 
 Getting to work right away, we created a Design Document to scope out what we wanted to accomplish and create in our re-creation of Q*bert, aptly named according to our desired theming of it, T-bert.
 ![logo](https://user-images.githubusercontent.com/112907563/191389964-e9ae68c4-e335-49dd-a0a8-705b9bc81f5f.png)
@@ -58,4 +58,23 @@ Snare Drum
 
 Bass Drum
 
-Rocks
+Cymbal
+
+Bfxr 8-bit Audio
+
+**Development**
+
+As you can see, I also noted 8-bit audio, which was a goal of mine to maintain a small bit of Q_bert's retro style in the music and sound effects. To combine and create these sounds, I used Reaper and Bfxr, two relatively easy to learn platforms for creating and mixing audio, which I was able to learn about extensively during the three week learning period of the NHSGA. There was also a provided sound library, that I used minimally for some more obscure pieces of sounds such as the falling of rocks or a gust of wind which I wanted to implement within the audio.
+
+Initially I found it difficult to create audio, as I was very critical on myself with every little aspect of it. Does this sound good, does this flow well, does this sound fit in, is this mixed well, how does this sound compared to other groups? That last question, a toxic one to say the least, was something I asked myself constantly. Within my group's work room, which we shared, there was a very talented audio designer who who had a large amount of experience in this field. He finished his audio within a day. To say the least, this made me feel a bit, at first, worse off when it came to my own audio.
+
+Quickly though, this feeling wore off, as I was able to, with the support of my group mates, personally create some sound that I could be proud of. 
+
+I created melodies, beats, loops, and incoporated reverb, pitch adjustments, and other necessary sound additions. It all came together to form a playful, energetic, and vibrant soundtrack for a just as vibrant and funky feeling game that is T-bert.
+
+---
+
+# The Sound
+
+Here's just a few of the created tracks and sound effects made for T-bert with some corresponding visuals.
+
