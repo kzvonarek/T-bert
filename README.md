@@ -15,6 +15,7 @@ Alex Chow (Artist)
 
 Danny Yu (Artist)
 
+---
 
 Overview
 
@@ -33,6 +34,8 @@ To be brief on our design principles, for our re-creation we wanted to focus on 
 While I cannot go into detail too much on the art and programming side of this project, while I was only involved in the planning process of them, I can back up the fact that my group members did some incredible work with it. Heres a gameplay video of the final product if you are interested.
 
 https://user-images.githubusercontent.com/112907563/191390565-af7eb48a-82de-4532-9c05-fb9886ca6bbb.mp4
+
+---
 
 Audio and the Magic of Reaper
 
