@@ -1,4 +1,4 @@
-# T-bert
+# T-bert - A Remake of Q*bert
 
 There is question that comes up when re-creating a beloved classic videogame, and that is how can you truly iterate on such an already quality experience. It is difficult to add on your own twists and changes, as you could risk destroying and not matching the already refined experience and feel of the original, thus creating a worse game. While it is not all about creating a better version, creating one that allows newer and older generations to experience it in new ways is important.
 
