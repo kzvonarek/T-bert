@@ -5,6 +5,7 @@ There is question that comes up when re-creating a beloved classic videogame, an
 My group and I took on this challenge with the game Q*bert.
 
 This group consisted of the following members...
+
 Kristijan Zvonarek (Producer and Audio Designer)
 
 Yichen Dai (Programmer)
