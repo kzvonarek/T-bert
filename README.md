@@ -16,6 +16,6 @@ Alex Chow (Artist)
 Danny Yu (Artist)
 
 
-<u> Phase One
+Phase One
 All of us brought to the table our prior knowledge, and the new knowledge we were taught during the three week learning period of the NHSGA at Carnegie Mellon to take one week to plan out, create, and present a recreation of Q*bert, which we call T-bert.
 
